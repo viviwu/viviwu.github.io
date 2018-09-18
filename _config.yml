@@ -1,2 +1,3 @@
 name: Vivi Wu, xxx.Inc
 markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
