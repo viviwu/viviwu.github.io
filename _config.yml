@@ -1,0 +1,10 @@
+title: DejaVu的技术笔记  # 你的网站标题
+author: DejaVu        # 你的名字
+description: >-     # 网站描述
+  这里记录了我的工作技能总结和学习笔记，希望能帮助到有需要的人。
+
+# 使用的主题
+theme: minima
+
+# 社交信息（可选）
+github_username:  viviwu
